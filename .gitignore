@@ -1,0 +1,7 @@
+#Files
+*.jpg
+
+#Folders
+.git/
+.vscode/
+__pycache__/
